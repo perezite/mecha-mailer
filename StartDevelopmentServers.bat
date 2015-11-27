@@ -23,7 +23,9 @@ cd ..
 cd ..
 
 rem # Show intermediate message
-echo If no error messages occured, the servers should be running now. Press enter twice to stop the servers.
+echo If no error messages occured, the servers should be running now. 
+echo To start the application, type http://localhost:5723 into your webbrowser. 
+echo To terminate the application, press enter twice in this window.
 pause
 pause
 
