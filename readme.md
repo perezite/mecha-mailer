@@ -7,7 +7,7 @@ Mecha Mailer simplifies the process of aquiring gamer-clan clients by advertisem
 
 The application features the following functions:
 
-* Specify clan-name, clan-tag and contact address with duplicate and similarity check
+* Specify the contact data of a targetted clan (clan-name, clan-tag and contact address), including duplicate and similarity check
 * Edit or the delete the information of specific clans
 * Send a standard or custom mail to the specified clans. The name of the receiving clan and a signature of the sending person is automatically added to the mail. 
 * A slick PHP web interface
@@ -19,7 +19,7 @@ To start the application locally for development:
 * Open the address http://localhost:5723 in your webbrowser
 
 ## Productive environment ##
-To start the application in a productive environement
+To start the application in a productive environement:
 
 * Execute Setup\DatabaseSetup.sql on your productive MySQL database
 * Copy the files in the \Application folder to your productive PHP web-folder
