@@ -1,13 +1,13 @@
 # Mecha Mailer #
 ## Quick Description ##
-A web-based application for distributing advertisement mails, tailored to the specific needs of a gamehoster company.
+A web-based application for distributing advertisement mails, tailored to the needs of a gamehoster company.
 
 ## Full Description ##
-Mecha Mailer simplifies the process of aquiring gamer-clan clients, which is a common task for any game hoster company.
+Mecha Mailer simplifies the process of aquiring gamer-clan clients by advertisement mails.
 
 The application features the following functions:
 
-* Specify clan-name, clan-tag and contact address with automatic duplicate and similarity check
+* Specify clan-name, clan-tag and contact address with duplicate and similarity check
 * Edit or the delete the information of specific clans
 * Send a standard or custom mail to the specified clans. The name of the receiving clan and a signature of the sending person is automatically added to the mail. 
 * A slick PHP web interface
