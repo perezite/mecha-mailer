@@ -1,6 +1,6 @@
 # Mecha Mailer #
 ## Quick Description ##
-A web-based application for distributing advertisement mails, tailored to the needs of a gamehoster company.
+A web-based application for distributing advertisement mails, tailored to the needs of a gameserver hosting company.
 
 ## Full Description ##
 Mecha Mailer simplifies the process of aquiring gamer-clan clients by advertisement mails.
